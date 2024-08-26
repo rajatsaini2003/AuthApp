@@ -1,0 +1,1 @@
+important command for getting ip :- use in command prompt :- curl -4 ifconfig.me
